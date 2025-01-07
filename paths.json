@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/sibe/:/"
+    "/content/sibe/:/",
+    "/content/sibe/configuration:/.helix/config.json",
+    "/content/sibe/metadata:/metadata.json"
   ],
   "includes": [
     "/content/sibe/"
